@@ -34,7 +34,7 @@ export default class ME implements IUser {
         },
         {
             name: 'kev-api',
-            homepage: 'https://www.npmjs.com/kev-api',
+            homepage: 'https://github.com/KevSchofield/kev-api#readme',
             repo: 'https://github.com/KevSchofield/kev-api',
             language: 'JavaScript',
             ongoing: true,
