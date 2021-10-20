@@ -4,17 +4,17 @@
 import { contact, IUser } from './github'
 
 export default class ME implements IUser {
-    public static firstName = 'Arséne'
-    public static lastName = 'Lupin'
-    public static username = 'ArseLupin'
+    public static firstName = 'Kevin'
+    public static lastName = 'null'
+    public static username = 'KevSchofield'
     public static website = 'None'
-    public static aliases = ['Arséne Lupin']
+    public static aliases = ['Kev']
     public static skills = ['TypeScript', 'JavaScript', 'NodeJS', 'C', 'EJS', 'Express', 'NoSQL', 'CSS', 'HTML']
     public static info = {
         age: 20,
-        country: 'Germany',
+        country: 'Panamá',
         org: 'None',
-        likes: ['TypeScript', 'Nanatsu No Taizai', 'Well.....'],
+        likes: ['Zelda', 'Nanatsu No Taizai', 'Well.....'],
         hobbies: ['Program', 'To Smoke', 'Music'],
         reach: [
             {
@@ -25,27 +25,27 @@ export default class ME implements IUser {
     }
     public static projects = [
         {
-            name: 'Arse',
-            homepage: 'https://arselupin.github.io/Arse/',
-            repo: 'https://github.com/ArseLupin/Arse',
-            language: 'eng', 'esp',
-            ongoing: true,
-            status: 'public'
-        },
-        {
-            name: 'wa-sticker-tew',
-            homepage: 'https://github.com/ArseLupin/lupin.git',
-            repo: 'https://github.com/ArseLupin/lupin',
-            language: 'TypeScript',
+            name: 'KevBot',
+            homepage: 'https://github.com/KevSchofield/KevBot#readme',
+            repo: 'https://github.com/KevSchofield/KevBot',
+            language: ['JavaScript', 'TypeScript'],
             ongoing: true,
             status: 'privated'
+        },
+        {
+            name: 'kev-api',
+            homepage: 'https://www.npmjs.com/kev-api',
+            repo: 'https://github.com/KevSchofield/kev-api',
+            language: 'JavaScript',
+            ongoing: true,
+            status: 'public'
         }
     ]
 }
 
 
 ```
-## Stats 📈
-![Well](https://github-readme-stats.vercel.app/api?username=ArseLupin&theme=dark&show_icons=true)
-## Top Languages 📊
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArseLupin&theme=dark)
+## Mis Estadísticas 📈
+![Well](https://github-readme-stats.vercel.app/api?username=KevSchofield&theme=dark&show_icons=true)
+## Mis Lenguajes 📊
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevSchofield&theme=dark)
