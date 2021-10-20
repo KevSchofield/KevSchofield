@@ -15,11 +15,11 @@ export default class ME implements IUser {
         country: 'Panamá',
         org: 'None',
         likes: ['Zelda', 'Nanatsu No Taizai', 'Well.....'],
-        hobbies: ['Program', 'To Smoke', 'Music'],
+        hobbies: ['Program', 'To Smoke', 'Listen To Music'],
         reach: [
             {
                 name: contact.WhatsApp,
-                url: 'https://wa.me/+50766666666?text=Well...'
+                url: 'https://wa.me/+50233301838?text=Well...'
             }
         ]
     }
